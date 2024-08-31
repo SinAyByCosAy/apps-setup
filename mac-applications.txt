@@ -1,0 +1,14 @@
+raycast
+iterm2
+gimp
+alttab
+mimestream
+rectangle
+obsidian
+slack
+postman
+discord
+arc
+inttellij-idea
+visual-studio-code
+keka
