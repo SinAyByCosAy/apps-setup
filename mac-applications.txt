@@ -1,14 +1,12 @@
 raycast
-iterm2
 gimp
-alttab
-mimestream
+alt-tab
 rectangle
 obsidian
 slack
-postman
 discord
+postman
 arc
-inttellij-idea
+intellij-idea
 visual-studio-code
 keka
