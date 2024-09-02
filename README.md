@@ -6,13 +6,13 @@ Need to install homebrew(package manager)
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-If the brew command is not foundput brew in the zshrc path.
+If the brew command is not found, put brew in the zshrc path.
 
 ```console
 echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
 ```
 
-Clone the repo or download the mac-applications.txt file
+Clone the repo or download the mac-applications.txt file<br>
 Go to the location of the file and run :
 
 ```console
