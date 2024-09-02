@@ -1,4 +1,4 @@
-## For MAC
+## For macOS
 
 Need to install homebrew(package manager)
 
