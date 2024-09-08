@@ -10,3 +10,4 @@ arc
 intellij-idea
 visual-studio-code
 keka
+hammerspoon
